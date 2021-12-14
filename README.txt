@@ -25,6 +25,15 @@ Content of Tweets will either be:
   ---> Can this determine the weights used for ML?
   ---> Can we build a neural net based on a Twitter user's Twitter followers?
 
+Each Tweet a user sends out can:
+ *Be replied to 
+ *Be retweeted
+ *Be liked
+ *Be quoted
+ --> This can be done multiple times --> The more times it is repeated, the greater the influence of the Tweet (more Twitter users are affected by the Tweet)
+    -You see this number by the Replies, Retweets, and Likes
+    -There is no distinguishing difference between a Retweet and a Quote Tweet
+
 https://en.wikipedia.org/wiki/Twitter
 https://developer.twitter.com/en/docs/twitter-api
 https://help.twitter.com/en/using-twitter/types-of-tweets
