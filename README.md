@@ -1,6 +1,6 @@
 # TwitterTweetPredictor
 
-The Scientific Method 
+The Scientific Method
 1. Define a question (revised): Can machine learning predict within the confines of Twitter what influences a Twitter user’s Tweets (consciousness) and if that has any affect on the collective Tweets (consciousness) of Twitter users?
 
 2. Gather information and resources (observe)
@@ -37,4 +37,3 @@ https://help.twitter.com/en/safety-and-security/control-your-twitter-experience
 8. Retest (frequently done by other scientists)
 
 https://en.wikipedia.org/wiki/Scientific_method#Process
-
