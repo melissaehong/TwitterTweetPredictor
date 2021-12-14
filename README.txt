@@ -22,6 +22,8 @@ Content of Tweets will either be:
   *Content from a promoted Tweet - source from advertisement
   *Mention a Twitter user - source can be anything, but is directed at specific Twitter user
   *Reply to a Tweet from a Twitter user - source is from a Twitter user
+  ---> Can this determine the weights used for ML?
+  ---> Can we build a neural net based on a Twitter user's Twitter followers?
 
 https://en.wikipedia.org/wiki/Twitter
 https://developer.twitter.com/en/docs/twitter-api
