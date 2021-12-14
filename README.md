@@ -5,22 +5,22 @@ The Scientific Method
 
 2. Gather information and resources (observe)
 Types of Tweets:
--Tweets
--Retweets
--Quote Tweets
--Mentions
--Replies
--Promoted Tweets
+Tweets
+Retweets
+Quote Tweets
+Mentions
+Replies
+Promoted Tweets
 
 Assumptions:
--Twitter user will Tweet one of the different types of Tweets
--Content of Tweets will either be:
-  -Original content
-  -Retweet content from a Twitter user
-  -Quote Tweets from a Twitter user
-  -Content from a promoted Tweet
-  -Mention a Twitter user
-  -Reply to a Tweet from a Twitter user
+Twitter user will Tweet one of the different types of Tweets
+Content of Tweets will either be:
+  Original content
+  Retweet content from a Twitter user
+  Quote Tweets from a Twitter user
+  Content from a promoted Tweet
+  Mention a Twitter user
+  Reply to a Tweet from a Twitter user
 
 https://en.wikipedia.org/wiki/Twitter
 https://developer.twitter.com/en/docs/twitter-api
