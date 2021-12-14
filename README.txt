@@ -14,13 +14,14 @@ Promoted Tweets
 
 Assumptions:
 Twitter user will Tweet one of the different types of Tweets
+
 Content of Tweets will either be:
-  Original content
-  Retweet content from a Twitter user
-  Quote Tweets from a Twitter user
-  Content from a promoted Tweet
-  Mention a Twitter user
-  Reply to a Tweet from a Twitter user
+  *Original content - source can be anything
+  *Retweet content from a Twitter user - source directly from a Twitter user
+  *Quote Tweets from a Twitter user - source directly from a Twitter user
+  *Content from a promoted Tweet - source from advertisement
+  *Mention a Twitter user - source can be anything, but is directed at specific Twitter user
+  *Reply to a Tweet from a Twitter user - source is from a Twitter user
 
 https://en.wikipedia.org/wiki/Twitter
 https://developer.twitter.com/en/docs/twitter-api
