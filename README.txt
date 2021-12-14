@@ -34,6 +34,22 @@ Each Tweet a user sends out can:
     -You see this number by the Replies, Retweets, and Likes
     -There is no distinguishing difference between a Retweet and a Quote Tweet
 
+What can we use as tangible measurements?
+
+-time of tweet
+-location
+-join date
+
+-activity level (frequency of tweets)
+-popularity of tweet
+   -# of likes, replies, retweets
+-popularity of Twitter user
+   -# following, #followers
+-content of tweet
+   -emojis (based off of most popular) --> determine mood?
+   -hashtags (based off of most popular)
+   -meta tags (https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/markup)
+
 https://en.wikipedia.org/wiki/Twitter
 https://developer.twitter.com/en/docs/twitter-api
 https://help.twitter.com/en/using-twitter/types-of-tweets
